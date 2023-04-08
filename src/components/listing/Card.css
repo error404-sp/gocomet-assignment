@@ -1,0 +1,21 @@
+#product_card{
+    width: 210px;
+    margin: 2rem;
+
+}
+
+#product_card #product_card_image{
+    width: 210px;
+}
+
+#product_card #product_card_rating{
+    background: hsla(0,0%,100%,.8);
+    padding : 2px 4px;
+    border-radius: 2px;
+
+    top: -30px;
+    left: -80px;
+    position: relative;
+
+
+}
