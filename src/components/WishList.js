@@ -22,7 +22,7 @@ const WishList = () => {
             <p id="product_card_name" className='font_medium'>{product.productName}</p>
             <div><span id="product_card_price" className='font_medium fontw_bold'> Rs.{product.price} </span><span id="product_card_mrp" className='font_small'>Rs.{product.mrp} </span><span id="product_card_discount" className='font_small'> {product.discountDisplayLabel}</span></div>
             <button className='btn-product-wishlist fontw_bold' onClick={()=>{productDispatch({type: "REMOVE_FROM_WISHLIST",payload: product}); productDispatch({type: 'ADD_TO_CART', payload: {...product,selectedSize: product.sizes.split(',')[0] }}) ;
-           }}>MOVE TO BAG</button><button className='btn-product-wishlist fontw_bold'><i class="fa-solid fa-trash-can" style={{color: "#ca163a"}}></i></button>
+           }}>MOVE TO BAG</button><button className='btn-product-wishlist fontw_bold' onClick={()=>{productDispatch({type: "REMOVE_FROM_WISHLIST",payload: product})}}><i class="fa-solid fa-trash-can" style={{color: "#ca163a"}}></i></button>
           </div>)}</div>
        :
       <div className='emptyWishList'>
