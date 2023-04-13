@@ -1,21 +1,102 @@
 #product_card{
     width: 210px;
-    margin: 2rem;
+    height: 375px;
+    margin: 10px 10px;
+    
+    overflow: hidden;
+    
+    box-sizing: border-box;
 
 }
 
-#product_card #product_card_image{
+#product_card:hover {
+    box-shadow: 0 20px 16px -4px rgb(40 44 63 / 7%);;
+  }
+
+
+.product_card_image{
     width: 210px;
+    height: 280px;
+    position: relative;
+    z-index: 2;
+    overflow-y: hidden;
 }
 
-#product_card #product_card_rating{
+
+#product_card_rating{
     background: hsla(0,0%,100%,.8);
     padding : 2px 4px;
     border-radius: 2px;
-
-    top: -30px;
+    z-index: 100;
+    top: 270px;
     left: -80px;
     position: relative;
+}
 
+.fill_space{
+    height: 18px;
+}
+
+.hover_element{
+   width: 210px;
+   height: 350px;
+   box-sizing: border-box;
+   background: white;
+   overflow: hidden;
+  
+}
+
+#product_card_descr{
+    height: 350px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+#product_card_name{
+    overflow:hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 5px;
+    color: #4b4c52;
+}
+
+/* s */
+
+#product_card_mrp{
+    text-decoration: line-through;
+    color: #6f7072;
+}
+
+#btn-similar{
+    position: relative;
+    top: 250px;
+    font-size: small;
+    z-index: 100;
+
+    border-radius: 5px;
+    padding: 5px;
+    border: 1px solid #c8c9cc;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
 
 }
+
+#product_card_size{
+    padding: 5px;
+    color: #6f7072;
+}
+
+#btn-wishlist{
+    width: 190px;
+    height: 33px;
+    background: rgb(255, 255, 255);
+    border: 1px solid #c8c9cc;
+    border-radius: 2px;
+    
+    
+}
+
+#product_card_discount{
+    color: #ff905a;
+}
+

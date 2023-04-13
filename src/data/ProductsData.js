@@ -19,7 +19,6 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/6849354/2022/2/9/cf16e108-7b61-43a3-81fe-08a480cdb5301644388786267-Roadster-Men-Blue--Beige-Regular-Fit-Checked-Casual-Shirt-88-2.jpg'
       },
-      { view: 'size_representation', src: '' },
       {
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/6849354/2022/2/9/e4225236-e9e8-4b09-bf9c-7569f3ed02021644388786220-Roadster-Men-Blue--Beige-Regular-Fit-Checked-Casual-Shirt-88-4.jpg'
@@ -54,7 +53,6 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/21559144/2023/1/16/87dab538-a586-4c10-8159-27144594a6851673835794597Cottonpoplinshirt4.jpg'
       },
-      { view: 'size_representation', src: '' },
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/21559144/2023/1/16/f79f4667-fc28-4ac8-bfe2-568766bd84531673835794573Cottonpoplinshirt5.jpg'
@@ -105,7 +103,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/21559168/2023/1/16/49441c62-522c-4de3-8854-d97cae02862d1673835814866Cottonpoplinshirt4.jpg'
       },
-      { view: 'size_representation', src: '' }
+     
     ],
     discountDisplayLabel: '(20% OFF)',
     sizes: 'XXS,XS,S,M,L,XL',
@@ -136,7 +134,6 @@ const ProductsData = [
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/9656253/2019/6/11/e4b02e61-d6c2-414e-9c47-4ddfe546295e1560256230388-Roadster-Women-Shirts-5261560256229167-3.jpg'
       },
-      { view: 'size_representation', src: '' },
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/9656253/2019/6/11/445e6a69-6834-465c-a45a-9045d8575cae1560256230335-Roadster-Women-Shirts-5261560256229167-5.jpg'
@@ -171,7 +168,6 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/8816777/2019/6/14/fddcc388-186b-4277-a33e-2d2e380701541560497607018-Roadster-Women-Pink-Solid-Shirt-2191560497605861-1.jpg'
       },
-      { view: 'size_representation', src: '' },
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/8816777/2019/6/14/e2536b05-b60e-42e1-8dea-28389b8ce1b31560497607000-Roadster-Women-Pink-Solid-Shirt-2191560497605861-2.jpg'
@@ -202,7 +198,6 @@ const ProductsData = [
         view: 'default',
         src: 'http://assets.myntassets.com/assets/images/21211196/2022/12/16/6a63df0e-5c68-44ff-8302-d1a5268ade4e1671156229533Oxfordovershirt1.jpg'
       },
-      { view: 'size_representation', src: '' },
       {
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/21211196/2022/12/16/302ae5ab-d721-4fc7-b138-58e9b31ece061671156229507Oxfordovershirt4.jpg'
@@ -265,7 +260,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/11987164/2020/7/7/3252c353-32e3-4ccc-9a2d-9101957b4fcb1594113095777-Roadster-Women-Navy-Blue--Pink-Regular-Fit-Checked-Casual-Sh-1.jpg'
       },
-      { view: 'size_representation', src: '' }
+    
     ],
     discountDisplayLabel: '(61% OFF)',
     sizes: 'XS,S,M,L,XL,XXL',
@@ -284,7 +279,7 @@ const ProductsData = [
         view: 'default',
         src: 'http://assets.myntassets.com/assets/images/21559178/2023/1/16/6c013024-e446-4f88-af04-7a6962bf42911673835822042Oversizedcottonovershirt1.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/21559178/2023/1/16/6c013024-e446-4f88-af04-7a6962bf42911673835822042Oversizedcottonovershirt1.jpg'
@@ -327,7 +322,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/productimage/2021/3/18/4fe02341-5b45-4b47-865a-44632ab217601616087438895-4.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/productimage/2021/3/18/a4524c9c-f216-4361-82c6-318d5503755c1616087438911-5.jpg'
@@ -362,7 +357,7 @@ const ProductsData = [
         view: 'default',
         src: 'http://assets.myntassets.com/assets/images/11549510/2021/12/24/2a3d1c2e-4ced-4b96-81f4-0b8702be083d1640325901512-SASSAFRAS-Black-Dobby-Sheer-Boxy-Shirt-8921640325900918-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/11549510/2021/12/24/b9a7815c-e9f1-4899-9df7-09d0b9df4c2d1640325901493-SASSAFRAS-Black-Dobby-Sheer-Boxy-Shirt-8921640325900918-3.jpg'
@@ -417,7 +412,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/21473602/2023/1/9/59b9ea08-10ee-4654-a790-3ed8b0a894091673265592891Cottonshirt2.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/21473602/2023/1/9/2c8aeda0-7ce3-47a4-ba29-3e41dffc58d31673265592866Cottonshirt1.jpg'
@@ -460,7 +455,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/14615130/2021/8/3/95c0ab7f-1259-43f0-ab19-226f87576d491627985759675-Roadster-Women-Olive-Green-Casual-Shirt-8211627985759163-5.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/14615130/2021/8/3/844bf036-d45e-4ce3-8460-5935c30bb3af1627985759751-Roadster-Women-Olive-Green-Casual-Shirt-8211627985759163-1.jpg'
@@ -507,7 +502,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/16154712/2021/11/18/0ec59a2f-196d-4602-a4e4-a269097f60c21637214641613SHAYEWomenWhiteOpaqueCasualShirt1.jpg'
       },
-      { view: 'size_representation', src: '' }
+      
     ],
     discountDisplayLabel: '(47% OFF)',
     sizes: 'XS,S,M,L,XL',
@@ -530,7 +525,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/13722908/2021/3/3/d1ee19bd-73c9-4ca4-a8e9-624c18128a6e1614752690702-Roadster-Women-Black--White-Regular-Fit-Checked-Casual-Shirt-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/13722908/2021/3/3/f86a0624-a4fd-497e-b37a-79f24bc1c9c51614752690682-Roadster-Women-Black--White-Regular-Fit-Checked-Casual-Shirt-2.jpg'
@@ -593,7 +588,6 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/14615110/2021/9/10/c4351ed5-9b83-41da-b81e-05faae0a13051631265003631-Roadster-Women-Shirts-6201631265003003-1.jpg'
       },
-      { view: 'size_representation', src: '' }
     ],
     discountDisplayLabel: '(58% OFF)',
     sizes: 'XS,S,M,L,XL,XXL',
@@ -616,7 +610,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/20258490/2022/10/13/2727ca8a-49a2-4671-a026-0fa616e16d6f1665657231229-SASSAFRAS-Women-Shirts-6571665657230889-5.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/20258490/2022/10/13/19c7728b-41d9-43b2-b688-e6eba8cba1121665657231292-SASSAFRAS-Women-Shirts-6571665657230889-2.jpg'
@@ -667,7 +661,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/14615072/2021/8/3/46058f0a-9a7d-433e-9dff-84c12dcb3b3a1627986262734-Roadster-Women-White-Casual-Shirt-7181627986262282-4.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/14615072/2021/8/3/27791a1f-2a3b-40a6-9d9f-9b818c72269f1627986262754-Roadster-Women-White-Casual-Shirt-7181627986262282-3.jpg'
@@ -706,7 +700,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/21728336/2023/1/27/24d60185-4ec2-46e0-ae6b-4a8aaf44c61c1674830233074Cottonshirt4.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/21728336/2023/1/27/ecbe6a0b-0981-43ae-baba-7bb28227cdfa1674830233049Cottonshirt1.jpg'
@@ -745,7 +739,7 @@ const ProductsData = [
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/15794184/2022/3/25/b6ed53d1-f845-434b-84d3-1bb2c5b522121648191422746-Roadster-Women-Mauve-Casual-Shirt-4151648191422243-3.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/15794184/2022/3/25/ba18bde7-a09a-485a-bc64-e31afb6625351648191422737-Roadster-Women-Mauve-Casual-Shirt-4151648191422243-4.jpg'
@@ -796,7 +790,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/21881752/2023/2/9/1f74fbad-de66-4dc4-bc0e-751212b317141675925312346Oversizedpoplinshirt2.jpg'
       },
-      { view: 'size_representation', src: '' }
+    
     ],
     discountDisplayLabel: '(25% OFF)',
     sizes: 'XXS,XS,S,M,L,XL',
@@ -823,7 +817,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/13722892/2021/7/20/3c318326-1a65-4f84-a495-902dccd7333c1626757851950-Roadster-Women-Shirts-1811626757851480-2.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'top',
         src: 'http://assets.myntassets.com/assets/images/13722892/2021/7/20/f008723f-6be2-4760-9ea2-5ca8a7ae8d421626757851866-Roadster-Women-Shirts-1811626757851480-6.jpg'
@@ -858,7 +852,7 @@ const ProductsData = [
         view: 'default',
         src: 'http://assets.myntassets.com/assets/images/19762282/2022/9/2/82f7266a-d463-4737-bf2f-ce44523696b51662117532858SHAYEWomenWhiteSmartCasualShirt1.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/19762282/2022/9/2/15db3714-06db-420f-b48a-e62f5edededb1662117532867SHAYEWomenWhiteSmartCasualShirt3.jpg'
@@ -901,7 +895,7 @@ const ProductsData = [
         view: 'bottom',
         src: 'http://assets.myntassets.com/assets/images/17608674/2023/3/16/606158cb-cba4-4eed-9d4d-19c76cc497121678962354313-Columbia-Women-White-Casual-Shirt-3321678962353785-7.jpg'
       },
-      { view: 'size_representation', src: '' },
+   
       {
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/17608674/2023/3/16/ac97097e-bde5-4053-8cd0-4f47a1c06ae51678962354388-Columbia-Women-White-Casual-Shirt-3321678962353785-4.jpg'
@@ -948,7 +942,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/7208127/2018/8/23/5a4d1d59-86f4-4c39-a2c5-41946831e2731535005234479-na-6341535005234394-4.jpg'
       },
-      { view: 'size_representation', src: '' },
+  
       {
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/7208127/2018/8/23/cc4f38b5-b019-4045-a0a7-eaa4291755641535005234502-na-6341535005234394-3.jpg'
@@ -1011,7 +1005,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/21748490/2023/1/30/da1b07b6-b23c-4bf3-9567-022a50f183d11675050463146ATUNWomenFuchsiaRelaxedPartyShirt5.jpg'
       },
-      { view: 'size_representation', src: '' }
+
     ],
     discountDisplayLabel: '(80% OFF)',
     sizes: 'XS,S,M,L,XL,XL/XXL,XXL,3XL,4XL,5XL',
@@ -1030,7 +1024,7 @@ const ProductsData = [
         view: 'default',
         src: 'http://assets.myntassets.com/assets/images/13723000/2021/6/4/a1f757e2-c649-402b-8d7b-ab843a70cdad1622799156295-Roadster-Women-Tops-3481622799155755-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/13723000/2021/6/4/ee148c0f-0d1c-4f30-b46e-155508426eb21622799156268-Roadster-Women-Tops-3481622799155755-4.jpg'
@@ -1089,7 +1083,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/1299590/2016/7/22/11469182521389-Roadster-Blue-Washed-Denim-Casual-Shirt-581469182521276-4.jpg'
       },
-      { view: 'size_representation', src: '' }
+     
     ],
     discountDisplayLabel: '(61% OFF)',
     sizes: 'XS,S,M,L,XL,XXL',
@@ -1128,7 +1122,7 @@ const ProductsData = [
         view: 'bottom',
         src: 'http://assets.myntassets.com/assets/images/11208456/2022/3/11/ee2c206e-c11a-4e19-a38e-0db48a51bd971646992532924-her-by-invictus-Women-Lavender--White-Printed-Casual-Shirt-2-7.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/11208456/2020/1/22/a3710583-f5e8-4d33-bd3d-9740f212e23a1579691613259-her-by-invictus-Women-Lavender--White-Regular-Fit-Printed-Ca-5.jpg'
@@ -1179,7 +1173,7 @@ const ProductsData = [
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/13398758/2021/4/5/a7f0ab3f-8f66-4af5-bcbc-5f9759f82b8b1617605660322-Roadster-Women-Shirts-181617605659469-3.jpg'
       },
-      { view: 'size_representation', src: '' }
+     
     ],
     discountDisplayLabel: '(65% OFF)',
     sizes: 'XS,S,M,L,XL,XXL',
@@ -1206,7 +1200,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/21860812/2023/2/8/8b6322da-7500-444b-92bc-d9e41e71b8b01675875293185MadameWomenOrangeCasualShirt4.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'top',
         src: 'http://assets.myntassets.com/assets/images/21860812/2023/2/8/07324a7e-64e8-490c-bafe-560f022974671675875293173MadameWomenOrangeCasualShirt6.jpg'
@@ -1249,7 +1243,7 @@ const ProductsData = [
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/21728364/2023/1/27/70486743-1735-450e-889a-6bff018b208d1674829269958Linen-blendshirt3.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/21728364/2023/1/27/46c0d6fa-76cd-4d02-b9a7-85917ec75cb31674829269982Linen-blendshirt1.jpg'
@@ -1308,7 +1302,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/21860808/2023/2/8/3182a1a2-4f60-4ee2-9093-4ec363b0eaf91675875286669MadameWomenGreenCasualShirt4.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/21860808/2023/2/8/8b6a477f-15fa-4f09-ba26-4f6c7154daed1675875286641MadameWomenGreenCasualShirt2.jpg'
@@ -1339,7 +1333,7 @@ const ProductsData = [
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/13203654/2021/1/22/e4fa9fdf-a543-48e7-83af-12dc78040ef11611316610079-Roadster-Women-Shirts-9121611316608179-3.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/13203654/2021/1/22/439c3503-dce1-4b1b-a158-9db43b2dfeef1611316610036-Roadster-Women-Shirts-9121611316608179-5.jpg'
@@ -1390,7 +1384,7 @@ const ProductsData = [
         view: 'top',
         src: 'http://assets.myntassets.com/assets/images/13398948/2021/3/25/dffc16e4-47c7-427c-8a07-ae89780b26161616664981266-Roadster-Women-White-Regular-Fit-Solid-Casual-Shirt-70016166-6.jpg'
       },
-      { view: 'size_representation', src: '' },
+   
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/13398948/2021/3/25/e1fd14b1-6d53-44b3-a10f-9424bc13c6e31616664934319-Roadster-Women-White-Regular-Fit-Solid-Casual-Shirt-74616166-1.jpg'
@@ -1417,7 +1411,7 @@ const ProductsData = [
         view: 'default',
         src: 'http://assets.myntassets.com/assets/images/22303210/2023/3/30/778ebd06-e381-468a-a766-ea72783f87cd1680173120350-MANGO-Women-Purple-Opaque-Casual-Shirt-5891680173120030-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/22303210/2023/3/30/ac7ef403-56bf-4621-9e8b-83962c60aba31680173120322-MANGO-Women-Purple-Opaque-Casual-Shirt-5891680173120030-3.jpg'
@@ -1460,7 +1454,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/19475118/2022/8/12/432c12b7-3c52-4da2-ab22-173915e8e8981660306874381STREET9WomenPinkSheerPrintedCasualShirt5.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/19475118/2022/8/12/20b06cee-d5f8-4a9c-944c-0d98bf60bfa61660306874357STREET9WomenPinkSheerPrintedCasualShirt1.jpg'
@@ -1511,7 +1505,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/2032106/2017/9/4/11504502813123-Roadster-Women-Blue--Black-Regular-Fit-Checked-Casual-Shirt-4551504502813013-4.jpg'
       },
-      { view: 'size_representation', src: '' }
+    
     ],
     discountDisplayLabel: '(61% OFF)',
     sizes: 'XS,S,M,L,XL,XXL',
@@ -1538,7 +1532,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/19998616/2022/9/22/dc6a3d10-1dc8-49dd-8b32-4afb4492f2841663841101733-MANGO-Women-Lavender-Solid-Sustainable-Casual-Shirt-81916638-2.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/19998616/2022/9/22/0da12980-1946-4ca5-b8f2-fa808084dbc91663841101721-MANGO-Women-Lavender-Solid-Sustainable-Casual-Shirt-81916638-3.jpg'
@@ -1569,7 +1563,7 @@ const ProductsData = [
         view: 'top',
         src: 'http://assets.myntassets.com/assets/images/13723028/2021/6/10/ba7a94b2-7871-4e3f-ada6-2123f24d01031623323473093-Roadster-Women-Tops-4051623323472682-6.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/13723028/2021/6/10/c8c2e6c5-616d-4f9c-866e-adaec115cfc21623323473189-Roadster-Women-Tops-4051623323472682-1.jpg'
@@ -1624,7 +1618,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/12301012/2020/12/10/c2e9454e-701a-4604-abee-6f99a1254b5b1607590234727-Roadster-Women-Red--Black-Flannel-Woven-Regular-Fit-Checked--2.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/12301012/2020/12/10/533d611e-2763-4f5d-89ea-2a6d3d45a5181607590234616-Roadster-Women-Red--Black-Flannel-Woven-Regular-Fit-Checked--4.jpg'
@@ -1671,7 +1665,7 @@ const ProductsData = [
         view: 'bottom',
         src: 'http://assets.myntassets.com/assets/images/19761198/2022/9/2/97443721-d8ea-474b-8e2a-414b1bc8c8fb1662107951470StyleQuotientWomenWhiteClassicFormalShirt7.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/19761198/2022/9/2/feebc8b3-ac7d-4e2c-bb40-e5d462c983f01662107951479StyleQuotientWomenWhiteClassicFormalShirt3.jpg'
@@ -1698,8 +1692,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/22447230/2023/3/21/c0d12c62-b963-43c5-87e6-c9660406da6a1679376173184Linen-blendshirt2.jpg'
       },
-      { view: 'size_representation', src: '' },
-      {
+     {
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/22447230/2023/3/21/46b6baf5-7a19-49cc-a5e7-3c0264ec029d1679376173208Linen-blendshirt4.jpg'
       },
@@ -1749,7 +1742,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/19987834/2022/11/3/b63b2e2f-3d86-4112-b899-681907a260331667479402910-Selvia-Women-White-Solid-Formal-Shirt-8021667479402354-5.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/19987834/2022/11/3/5c100032-eade-4682-a037-c20a71d5acab1667479402939-Selvia-Women-White-Solid-Formal-Shirt-8021667479402354-2.jpg'
@@ -1792,7 +1785,6 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/13583348/2021/4/20/c14e7598-f09b-49a1-b371-34441b1b67531618901971615-Chemistry-Women-Shirts-5251618901970950-5.jpg'
       },
-      { view: 'size_representation', src: '' },
       {
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/13583348/2021/4/20/5d6fcea0-41bd-45a2-b6d9-ae4f940e885d1618901971640-Chemistry-Women-Shirts-5251618901970950-4.jpg'
@@ -1835,7 +1827,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/17203078/2022/2/18/be00b945-8ed4-49b4-bfad-f26fb3899fcc1645196725649Longsatinshirt2.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/17203078/2022/2/18/e67bc484-82e9-493f-a50f-16d92e9b5d921645196725932Longsatinshirt1.jpg'
@@ -1862,7 +1854,7 @@ const ProductsData = [
         view: 'top',
         src: 'http://assets.myntassets.com/assets/images/14615132/2021/8/3/56fa6152-9711-48f1-988b-2a7a66fad3e31627985765765-Roadster-Women-White-Casual-Shirt-5701627985765145-6.jpg'
       },
-      { view: 'size_representation', src: '' },
+  
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/14615132/2021/8/3/3b79ea94-6efd-416f-b82c-ff4e8f540f851627985765869-Roadster-Women-White-Casual-Shirt-5701627985765145-1.jpg'
@@ -1913,7 +1905,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/17011296/2022/6/8/6ff4041c-519f-4a5d-922c-5c31b1a7f5651654686335408-Chemistry-Women-Purple-Multi-Stripes-Semi-Sheer-Striped-Casu-5.jpg'
       },
-      { view: 'size_representation', src: '' },
+ 
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/17011296/2022/6/8/e2fd8483-4a82-4b40-a197-90dd29bc26551654686335469-Chemistry-Women-Purple-Multi-Stripes-Semi-Sheer-Striped-Casu-2.jpg'
@@ -1968,7 +1960,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/13333900/2021/8/13/2fd2c880-0904-4e81-9d6a-035cdfedf0701628844168397-Roadster-Women-Shirts-5101628844167787-2.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/13333900/2021/8/13/eff40544-8e7d-4a18-b030-523e8b6c11781628844168416-Roadster-Women-Shirts-5101628844167787-1.jpg'
@@ -2003,7 +1995,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/19472726/2022/8/11/56c76ec4-a160-4017-bb17-ec44718b8d991660221895312Shirts5.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/19472726/2022/8/11/9eaee4e7-d697-4fc1-8355-d587117bd7261660221895303Shirts4.jpg'
@@ -2054,7 +2046,7 @@ const ProductsData = [
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/14615002/2021/8/3/f297b566-fd61-44fe-96a8-68464649474c1627984679487-Roadster-Women-Pink-Casual-Shirt-8381627984678748-3.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/14615002/2021/8/3/4df70017-a3d6-4ac9-9534-d98d5e10cd0d1627984679526-Roadster-Women-Pink-Casual-Shirt-8381627984678748-1.jpg'
@@ -2101,7 +2093,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/21728358/2023/1/27/b8323bd3-87d3-45af-8c5b-3848f59e56461674830274431Linen-blendshirt2.jpg'
       },
-      { view: 'size_representation', src: '' },
+ 
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/21728358/2023/1/27/4df4dac6-2ac0-448a-8c3f-91882f1b915e1674830274463Linen-blendshirt5.jpg'
@@ -2136,7 +2128,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/2050688/2018/2/5/11517823120338-HIGHLANDER-Men-White-Slim-Fit-Solid-Casual-Shirt-5911517823120124-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/2050688/2018/2/5/11517823120287-HIGHLANDER-Men-White-Slim-Fit-Solid-Casual-Shirt-5911517823120124-4.jpg'
@@ -2167,7 +2159,7 @@ const ProductsData = [
         view: 'default',
         src: 'http://assets.myntassets.com/assets/images/2038071/2019/4/9/ace5c891-0717-485c-8080-9c37c5c759821554799993054-Roadster-Men-Black--White-Slim-Fit-Solid-Casual-Shirt-322155-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/2038071/2019/4/9/85f98b93-7b01-4ed5-beec-58ae02861b1e1554799993028-Roadster-Men-Black--White-Slim-Fit-Solid-Casual-Shirt-322155-2.jpg'
@@ -2210,7 +2202,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/13383204/2021/8/12/15a9607c-3150-4a8e-8db8-0085d71787ec1628762158609-Roadster-Women-Maroon-EcoVero--Buffalo-Checks-Casual-Shirt-1-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/13383204/2021/8/12/32754f74-91fd-4336-93d5-cb200dd2581b1628762158590-Roadster-Women-Maroon-EcoVero--Buffalo-Checks-Casual-Shirt-1-2.jpg'
@@ -2265,7 +2257,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/11780968/2022/11/21/32e6b136-ab09-45fa-988e-f5e7cfba27951669021381974-HIGHLANDER-Men-Green--White-Slim-Fit-Printed-Casual-Shirt-27-2.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/11780968/2022/11/21/3315cb29-7dc0-4e8a-979f-661c750952161669021381903-HIGHLANDER-Men-Green--White-Slim-Fit-Printed-Casual-Shirt-27-5.jpg'
@@ -2300,7 +2292,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/8889501/2019/3/19/6fa08c94-8835-4963-a84b-4f18bcd46e781552979698271-Roadster-Men-Black--Red-Regular-Fit-Checked-Casual-Shirt-135-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/8889501/2019/3/19/b9de4d71-eb60-475f-a0b2-8e4f08db69581552979698205-Roadster-Men-Black--Red-Regular-Fit-Checked-Casual-Shirt-135-5.jpg'
@@ -2355,7 +2347,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/2527414/2018/7/3/eb09de4f-ea81-4757-8ba1-a3cb2d35a2c51530618573840-Roadster-Men-Black-Regular-Fit-Solid-Casual-Shirt-4915306185-4.jpg'
       },
-      { view: 'size_representation', src: '' }
+    
     ],
     discountDisplayLabel: '(50% OFF)',
     sizes: '38,40,42,44',
@@ -2390,7 +2382,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/6491765/2019/3/20/c0152d15-f8f6-4995-98c4-0e1121f44e611553080026621-HIGHLANDER-Men-Olive-Green-Slim-Fit-Solid-Casual-Shirt-14315-2.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/6491765/2019/3/20/2d7f0b48-ed74-46bb-911c-5b21cc367ced1553080026602-HIGHLANDER-Men-Olive-Green-Slim-Fit-Solid-Casual-Shirt-14315-3.jpg'
@@ -2417,7 +2409,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/2347551/2019/12/3/74c488fb-ba5a-4575-b886-65397288cdff1575363237736-HIGHLANDER-Men-White--Light-Blue-Slim-Fit-Striped-Casual-Shi-5.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/2347551/2019/12/3/fb88c67b-d735-48cc-8554-9374a95ba35b1575363237983-HIGHLANDER-Men-White--Light-Blue-Slim-Fit-Striped-Casual-Shi-1.jpg'
@@ -2472,7 +2464,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/2042528/2017/9/28/11506599316866-Mast--Harbour-Men-Red--Blue-Regular-Fit-Checked-Casual-Shirt-7991506599316924-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/2042528/2017/9/28/11506599316667-Mast--Harbour-Men-Red--Blue-Regular-Fit-Checked-Casual-Shirt-7991506599316924-5.jpg'
@@ -2511,7 +2503,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/9680385/2019/8/19/9a71effc-5ca8-4f56-94c0-2c71054102101566218377789-Roadster-Men-Shirts-8021566218376333-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/9680385/2019/8/19/7b039a76-2a6f-4988-8d3b-3596d2452dd81566218377770-Roadster-Men-Shirts-8021566218376333-2.jpg'
@@ -2558,7 +2550,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/2347553/2019/3/15/1fa2284b-771f-4642-b881-90b5fe268cdb1552647943884-HIGHLANDER-Men-White--Pink-Slim-Fit-Striped-Casual-Shirt-623-5.jpg'
       },
-      { view: 'size_representation', src: '' }
+     
     ],
     discountDisplayLabel: '(48% OFF)',
     sizes: '39,40,42,44',
@@ -2601,7 +2593,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/8469259/2019/12/3/2f733b75-4cd7-4d5d-98a3-2faaf6add9601575377853284-HIGHLANDER-by-Rohit-Sharma-Men-White--Blue-Slim-Fit-Checked--4.jpg'
       },
-      { view: 'size_representation', src: '' }
+      
     ],
     discountDisplayLabel: '(58% OFF)',
     sizes: '39,40,42,44',
@@ -2628,7 +2620,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/8889611/2019/3/20/3eae8fb4-b7ca-4e01-80bf-d1e59ab1568d1553080254589-Roadster-Men-Black--White-Regular-Fit-Checked-Casual-Shirt-9-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'top',
         src: 'http://assets.myntassets.com/assets/images/8889611/2019/3/20/00e2f60e-0ed3-4b12-9c98-6840e99b506d1553080254483-Roadster-Men-Black--White-Regular-Fit-Checked-Casual-Shirt-9-6.jpg'
@@ -2675,7 +2667,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/16532696/2021/12/16/3924fbf5-814a-4dd4-842c-ed00a27733001639640760807HIGHLANDERMenWhiteSlimFitCasualShirt4.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/16532696/2021/12/16/08af1a4b-3306-484f-9187-5d4acf6a24a31639640760644HIGHLANDERMenWhiteSlimFitCasualShirt3.jpg'
@@ -2726,7 +2718,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/17046972/2022/2/4/2444854a-97ea-4356-a0d8-737741772c111643965832913HIGHLANDERMenBlackSlimFitFloralPrintedCasualShirt1.jpg'
       },
-      { view: 'size_representation', src: '' },
+   
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/17046972/2022/2/4/8697ccfe-8385-460f-9f20-126748d7a7101643965832734HIGHLANDERMenBlackSlimFitFloralPrintedCasualShirt2.jpg'
@@ -2753,7 +2745,7 @@ const ProductsData = [
         view: 'default',
         src: 'http://assets.myntassets.com/assets/images/2164373/2017/11/15/11510749192975-Roadster-Men-Brown--Black-Regular-Fit-Checked-Casual-Shirt-8071510749192783-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/2164373/2017/11/15/11510749192864-Roadster-Men-Brown--Black-Regular-Fit-Checked-Casual-Shirt-8071510749192783-5.jpg'
@@ -2792,7 +2784,7 @@ const ProductsData = [
         view: 'default',
         src: 'http://assets.myntassets.com/assets/images/20502060/2022/12/8/bc5c31f3-5928-4031-bed3-7ace7a08392d1670475289493HIGHLANDERMenGreenSlimFitFloralCottonPrintedCasualShirt1.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/20502060/2022/12/8/77064c6e-6285-46a8-ae7c-6b6f1ee582b31670475289530HIGHLANDERMenGreenSlimFitFloralCottonPrintedCasualShirt5.jpg'
@@ -2851,7 +2843,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/1823142/2017/4/27/11493281526196-WROGN-Men-Navy-Blue-Slim-Fit-Checked-Casual-Shirt-5201493281525914-2.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/1823142/2017/4/27/11493281526173-WROGN-Men-Navy-Blue-Slim-Fit-Checked-Casual-Shirt-5201493281525914-3.jpg'
@@ -2886,7 +2878,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/11518152/2022/9/26/4f213f90-5d8f-4dee-b521-ef7d1b3c0ced1664185229122HIGHLANDERMenBlueOrangeSlimFitCheckedCasualShirt5.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/11518152/2022/9/26/b7de8734-fd8d-47bf-9b8b-972e8ac622fb1664185229031HIGHLANDERMenBlueOrangeSlimFitCheckedCasualShirt1.jpg'
@@ -2929,7 +2921,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/1291760/2017/12/5/11512469309020-Highlander-Dark-Green-Slim-Fit-Casual-Shirt-5071512469308877-5.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/1291760/2017/12/5/11512469309092-Highlander-Dark-Green-Slim-Fit-Casual-Shirt-5071512469308877-2.jpg'
@@ -2956,7 +2948,7 @@ const ProductsData = [
         view: 'default',
         src: 'http://assets.myntassets.com/assets/images/2284523/2018/2/15/11518684805969-Roadster-Men-Navy-Blue--Green-Regular-Fit-Checked-Casual-Shirt-4471518684805162-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/2284523/2018/2/15/11518684805969-Roadster-Men-Navy-Blue--Green-Regular-Fit-Checked-Casual-Shirt-4471518684805162-1.jpg'
@@ -3003,7 +2995,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/11780956/2020/4/3/a1707411-9eb0-4a5c-953b-f7201667ec641585905028553HIGHLANDERMenWhiteBlueSlimFitPrintedCasualShirt2.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/11780956/2020/4/3/b229264f-b742-4250-a5d3-019a251311f61585905028659HIGHLANDERMenWhiteBlueSlimFitPrintedCasualShirt4.jpg'
@@ -3050,7 +3042,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/13398948/2021/3/25/3c9b4978-a19b-4183-aaae-b7947142b6b51616664934301-Roadster-Women-White-Regular-Fit-Solid-Casual-Shirt-74616166-2.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/13398948/2021/3/25/1aff369e-c5b8-4bd2-960a-d1878697af9a1616664934243-Roadster-Women-White-Regular-Fit-Solid-Casual-Shirt-74616166-5.jpg'
@@ -3089,7 +3081,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/10945164/2020/2/20/784ffd76-35d5-40a9-81f3-33395d9e4ef01582182543335-Roadster-Men-White-Regular-Fit-Solid-Casual-Linen-Shirt-5715-5.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'top',
         src: 'http://assets.myntassets.com/assets/images/10945164/2020/2/20/3946d65e-6f41-4e9d-adc6-f60d8f595e571582182543282-Roadster-Men-White-Regular-Fit-Solid-Casual-Linen-Shirt-5715-6.jpg'
@@ -3132,7 +3124,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/2347555/2019/12/3/fe600427-0de0-4e5f-aeac-b8223c6c5f6d1575361938653-HIGHLANDER-Men-White--Blue-Slim-Fit-Striped-Casual-Shirt-304-5.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/2347555/2019/12/3/77c23017-fd9d-4ad8-95f5-8722154e85ac1575361938857-HIGHLANDER-Men-White--Blue-Slim-Fit-Striped-Casual-Shirt-304-1.jpg'
@@ -3179,7 +3171,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/2127876/2017/11/23/11511431472584-Roadster-Men-Black-Regular-Fit-Solid-Casual-Shirt-8801511431472500-4.jpg'
       },
-      { view: 'size_representation', src: '' },
+   
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/2127876/2017/11/23/11511431472614-Roadster-Men-Black-Regular-Fit-Solid-Casual-Shirt-8801511431472500-2.jpg'
@@ -3230,7 +3222,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/6791213/2020/9/23/e8b610f6-b526-44b5-891a-ce77a75d1f441600850499896-Roadster-Men-Pink-Solid-Casual-Shirt-1841600850486457-1.jpg'
       },
-      { view: 'size_representation', src: '' }
+    
     ],
     discountDisplayLabel: '(Rs. 200 OFF)',
     sizes: '38,40,42,44,46,48',
@@ -3269,7 +3261,7 @@ const ProductsData = [
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/20377658/2023/1/25/04573768-a9cc-4172-82e4-82b9982b9acb1674639074017HIGHLANDERMenGreenSlimFitFloralPrintedCasualShirt3.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/20377658/2023/1/25/5c140a9f-60fd-4559-8f0e-8304433689db1674639074042HIGHLANDERMenGreenSlimFitFloralPrintedCasualShirt5.jpg'
@@ -3296,7 +3288,7 @@ const ProductsData = [
         view: 'default',
         src: 'http://assets.myntassets.com/assets/images/11780922/2020/4/3/0fe1f83f-4a92-4a9e-ac95-3559e4b978e61585905004166HIGHLANDERMenWhiteGreySlimFitPrintedCasualShirt1.jpg'
       },
-      { view: 'size_representation', src: '' },
+
       {
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/11780922/2020/4/3/2ff1aa69-ea28-4f03-860e-60127ea6414e1585905004307HIGHLANDERMenWhiteGreySlimFitPrintedCasualShirt3.jpg'
@@ -3351,7 +3343,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/6696340/2018/8/29/974fa619-9778-4b50-8cd7-4c4e3fd0f1a01535539060339-Roadster-Men-Maroon--Black-Regular-Fit-Checked-Casual-Shirt--5.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/6696340/2018/8/29/6065a119-ecad-4870-a6c3-8733013c2d1c1535539060358-Roadster-Men-Maroon--Black-Regular-Fit-Checked-Casual-Shirt--4.jpg'
@@ -3394,7 +3386,7 @@ const ProductsData = [
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/2347567/2018/10/12/efb02f90-afb1-4304-82a3-26eb4473492f1539346016803-HIGHLANDER-Men-Blue-Slim-Fit-Solid-Casual-Shirt-345153934601-3.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/2347567/2018/10/12/7882dbc5-e632-4d26-9b23-cbad01d9e3921539346016780-HIGHLANDER-Men-Blue-Slim-Fit-Solid-Casual-Shirt-345153934601-4.jpg'
@@ -3437,7 +3429,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/1862801/2018/2/9/11518155061427-Roadster-Men-Maroon--Navy-Blue-Regular-Fit-Checked-Casual-Shirt-8861518155061131-4.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/1862801/2018/2/9/11518155061506-Roadster-Men-Maroon--Navy-Blue-Regular-Fit-Checked-Casual-Shirt-8861518155061131-1.jpg'
@@ -3484,7 +3476,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/11904108/2020/7/14/92dedcdd-aea6-4be9-b0ab-39d30215ae0d1594707585556-Roadster-Men-Shirts-1041594707583386-2.jpg'
       },
-      { view: 'size_representation', src: '' }
+     
     ],
     discountDisplayLabel: '(45% OFF)',
     sizes: '38,40,42,44',
@@ -3523,7 +3515,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/11327058/2020/2/24/46d86c5f-de81-4af8-b77f-d7126c4693f21582542347538-Roadster-Men-Shirts-5771582542344736-5.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'top',
         src: 'http://assets.myntassets.com/assets/images/11327058/2020/2/24/75c8c0a7-808f-47f4-845b-876b259d57151582542347493-Roadster-Men-Shirts-5771582542344736-6.jpg'
@@ -3562,7 +3554,7 @@ const ProductsData = [
         view: 'top',
         src: 'http://assets.myntassets.com/assets/images/21769268/2023/1/31/59d9f692-e857-4dc2-963b-ef786255b2e41675144363683Shirts6.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/21769268/2023/1/31/31db46ee-14ec-463f-a72f-fdf70ab287a01675144363693Shirts1.jpg'
@@ -3597,7 +3589,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/9713949/2019/6/12/8572b799-9b88-4569-8d68-72d0ba704ddd1560340832218-Roadster-Men-Navy-Blue-Regular-Fit-Solid-Casual-Shirt-383156-2.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/9713949/2019/6/12/47035049-6667-49fd-8219-4e86dceb57e81560340832239-Roadster-Men-Navy-Blue-Regular-Fit-Solid-Casual-Shirt-383156-1.jpg'
@@ -3652,7 +3644,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/11007348/2020/3/5/51a24c7c-8184-47ac-b695-bbf45f18a0d91583402701330-Mast--Harbour-Men-Brown--Pink-Regular-Fit-Checked-Cotton-Lin-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/11007348/2020/3/5/43aed317-7493-4b14-b003-6d80bfcecc0a1583402701251-Mast--Harbour-Men-Brown--Pink-Regular-Fit-Checked-Cotton-Lin-3.jpg'
@@ -3679,7 +3671,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/8894461/2019/7/1/5998357b-29e8-409e-8348-62e75435bad11561981907968-Roadster-Men-Coffee-Brown-Regular-Fit-Solid-Casual-Shirt-511-1.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'top',
         src: 'http://assets.myntassets.com/assets/images/8894461/2019/7/1/da5fa6e0-37fe-4e7e-aeba-7f9b8c08fdf01561981907861-Roadster-Men-Coffee-Brown-Regular-Fit-Solid-Casual-Shirt-511-6.jpg'
@@ -3718,7 +3710,6 @@ const ProductsData = [
         view: 'default',
         src: 'http://assets.myntassets.com/assets/images/productimage/2019/1/4/544ed702-b41d-48c1-8d07-1c87d0d838251546589657734-1.jpg'
       },
-      { view: 'size_representation', src: '' },
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/productimage/2019/1/4/9cd9afb0-9b1a-40c0-afd2-6d925cb9d70d1546589657817-5.jpg'
@@ -3761,7 +3752,7 @@ const ProductsData = [
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/2256568/2018/4/3/11522749277357-HIGHLANDER-Men-Teal-Slim-Fit-Solid-Casual-Shirt-7301522749277212-3.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/2256568/2018/4/3/11522749277381-HIGHLANDER-Men-Teal-Slim-Fit-Solid-Casual-Shirt-7301522749277212-2.jpg'
@@ -3820,7 +3811,7 @@ const ProductsData = [
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/10944516/2020/11/7/52553086-0341-4f2b-bee6-8f5514cd44231604739927596-Roadster-Men-Shirts-2591604739926224-5.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/10944516/2020/11/7/316a96af-ba8b-48e2-aace-3bb1c5d225391604739927689-Roadster-Men-Shirts-2591604739926224-3.jpg'
@@ -3847,7 +3838,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/12131920/2020/8/5/3fe090b5-e6f6-4f4d-b9e4-dc1eb51b42ba1596608809368-WROGN-Men-Shirts-8801596608807405-2.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/12131920/2020/8/5/aa1251b3-01ff-40a1-ae4f-8ba158238deb1596608809230-WROGN-Men-Shirts-8801596608807405-5.jpg'
@@ -3902,7 +3893,7 @@ const ProductsData = [
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/1847884/2017/12/5/11512463966904-HIGHLANDER-Men-Black--Blue-Slim-Fit-Checked-Casual-Shirt-4301512463966741-3.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/1847884/2017/12/5/11512463966960-HIGHLANDER-Men-Black--Blue-Slim-Fit-Checked-Casual-Shirt-4301512463966741-1.jpg'
@@ -3933,7 +3924,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/12947498/2020/12/30/2b388745-037c-4821-b62c-73482395dc491609325877535-Roadster-Men-Shirts-8871609325875363-2.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/12947498/2020/12/30/b31c4d8f-c282-4880-a304-8f3e4de773101609325877411-Roadster-Men-Shirts-8871609325875363-5.jpg'
@@ -3984,7 +3975,7 @@ const ProductsData = [
         view: 'top',
         src: 'http://assets.myntassets.com/assets/images/6832669/2018/8/24/0ee8fcb2-3d13-42c6-b04f-1396146f78ca1535114456922-WROGN-Men-Shirts-9431535114455282-6.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/6832669/2018/8/24/efba132c-0215-47fe-8f79-63fe1f0b0e4e1535114456996-WROGN-Men-Shirts-9431535114455282-1.jpg'
@@ -4027,7 +4018,7 @@ const ProductsData = [
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/10944602/2020/3/5/e4c824cc-b739-4169-bb38-10b716125c1a1583385686609-Roadster-Men-Teal-Blue--Black-Regular-Fit-Printed-Casual-Shi-2.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/10944602/2020/3/5/941091b5-76eb-4267-ac65-902d1e04aac51583385686650-Roadster-Men-Teal-Blue--Black-Regular-Fit-Printed-Casual-Shi-1.jpg'
@@ -4070,7 +4061,7 @@ const ProductsData = [
         view: 'search',
         src: 'http://assets.myntassets.com/assets/images/17280192/2022/2/25/9e43ddee-82f4-4d61-ac29-c1998e2053781645727557863HIGHLANDERMenGreenSlimFitHorizontalStripesStripedCasualShirt1.jpg'
       },
-      { view: 'size_representation', src: '' },
+      
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/17280192/2022/2/25/b872fe34-9aa8-44bd-a3b0-5b423c7b29601645727557879HIGHLANDERMenGreenSlimFitHorizontalStripesStripedCasualShirt5.jpg'
@@ -4113,7 +4104,7 @@ const ProductsData = [
         view: 'right',
         src: 'http://assets.myntassets.com/assets/images/8217987/2019/3/22/b0626699-7080-4079-8241-1655896215941553254987229-Roadster-Men-White-Regular-Fit-Solid-Casual-Shirt-4091553254-4.jpg'
       },
-      { view: 'size_representation', src: '' },
+     
       {
         view: 'left',
         src: 'http://assets.myntassets.com/assets/images/8217987/2019/3/22/f415028c-52f0-469d-9f2b-607cf0c21a9a1553254987216-Roadster-Men-White-Regular-Fit-Solid-Casual-Shirt-4091553254-5.jpg'
@@ -4152,7 +4143,7 @@ const ProductsData = [
         view: 'back',
         src: 'http://assets.myntassets.com/assets/images/10944520/2020/3/5/28eb8b8c-af39-4e9d-a794-e3a7b7312ea51583385602464-Roadster-Men-Grey-Regular-Fit-Printed-Casual-Shirt-824158338-3.jpg'
       },
-      { view: 'size_representation', src: '' },
+    
       {
         view: 'front',
         src: 'http://assets.myntassets.com/assets/images/10944520/2020/3/5/560f1243-61d7-4dde-8ed1-e05867acf7b61583385602506-Roadster-Men-Grey-Regular-Fit-Printed-Casual-Shirt-824158338-2.jpg'

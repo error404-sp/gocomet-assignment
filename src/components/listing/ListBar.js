@@ -1,10 +1,13 @@
 import React from 'react'
-import Sort from './Sort'
+import Sort from './Sort';
+import "./ListBar.css";
+import useProduct from '../../hooks/useProduct';
 
 const ListBar = () => {
+
   return (
-    <div>
-        <p>Shirts Leength</p>
+    <div className="list_bar">
+      <p></p>
         <Sort/>
     </div>
   )

@@ -1,0 +1,28 @@
+.wishlist{
+    
+
+}
+.wishlist_products{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 20px;
+}
+
+.wishlist_card{
+    height: auto !important;
+    text-align: center;
+}
+
+.btn-product-wishlist{
+    background: white;
+    border: 1px solid #c4c4c4;
+    height: 30px;
+    padding: 0 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.emptyWishList {
+    text-align: center;
+  }

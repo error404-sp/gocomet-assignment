@@ -1,0 +1,144 @@
+#details_product{
+    display: flex;
+    margin: 20px;
+    justify-content: flex-start;
+    margin-top: 80px;
+  }
+ 
+  .details_product_imgs{
+    display: flex;
+    width: 50vw;
+    flex-wrap: wrap;
+  }
+
+  .details_product_img{
+    width: 300px;
+    height: auto;
+    margin : 5px !important;
+  }
+
+  /* .details_product_img:active {
+    position:fixed;
+    left: 35%;
+    top: 17%;
+    transform: scale(1.5);
+    z-index: 99999;
+    
+  } */
+
+  #details_product_name{
+    color: #4c4d4e;
+    padding: 5px;
+    
+  }
+
+  #details_product_rating{
+    border: 1px solid #c8c9cc;
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 2px;
+  }
+
+  .details_product_sizes {
+    list-style-type:none;
+    margin: 10px;
+}
+
+.details_product_sizes li {
+    display: inline-block;
+   
+}
+
+
+.details_product_sizes input[type="radio"] {
+   opacity:0.011;
+   z-index:100;
+}
+
+.details_product_sizes input[type="radio"]:checked + label {
+   color: #ff3e6c;
+   border: 1px solid #ff3e6c;
+}
+
+
+.details_product_sizes label {
+    cursor:pointer;
+    color:#4c4d4e;
+    font-weight: 600;
+   z-index:90;
+   display: inline-flex;
+   position: relative;
+   justify-content: center;
+   align-items: center;
+   width:50px;
+   height:50px;
+   border-radius: 50%;
+   border: 1px solid #c8c9cc;
+   
+}
+
+
+
+  
+#details_product_descr{
+    text-align: left;
+    padding: 5px;
+    width: 40vw;
+  }
+  #btn-addtocart {
+    height: 50px;
+    width: 200px;
+    background-color: #ff3e6c;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    margin: 20px;
+  }
+  #btn-addtowishlist{
+    height: 50px;
+    width: 150px;
+    margin: 10px;
+    font-weight: bold;
+    border: 1px solid #c8c9cc;
+    background: white;
+    border-radius: 5px;
+  }
+
+  #details_product_price{
+    display: inline-block;
+    color: rgb(73, 75, 75);
+    padding: 10px 5px;
+  }
+
+  #details_product_mrp{
+    display: inline-block;
+    color:#a9acb3;
+    text-decoration: line-through;
+    padding: 10px 5px;
+  }
+
+  #details_product_discount{
+    display: inline-block;
+    color:#ff905a;;
+    padding: 10px 5px;
+  }
+
+  .singleProduct-mrp {
+    text-decoration: line-through;
+    color: burlywood;
+  }
+  .singleProduct-cost {
+    margin-left: 0;
+    margin-top: 0;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .singleProduct-discount {
+    color: sandybrown;
+  }
+  
+  
+
+
+  

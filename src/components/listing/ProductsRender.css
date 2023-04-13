@@ -1,0 +1,9 @@
+.products_render{
+    display: flex;
+    flex-wrap:wrap;
+    padding: 10px;
+    justify-content: space-around;
+    flex: 1 0 70%;
+    border: 1px solid lightgrey;
+
+}

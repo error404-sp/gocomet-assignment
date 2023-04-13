@@ -13,7 +13,7 @@ function App() {
      <BrowserRouter>
      <Routes>
       <Route path='/' element={<ListPage/>}/>
-      <Route path="/shirts/:details" element={<DetailsPage/>}/>
+      <Route path="/shirts/:details" element={<DetailsPage />}/>
      </Routes>
      </BrowserRouter>
     </div>

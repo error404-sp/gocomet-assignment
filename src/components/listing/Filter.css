@@ -1,0 +1,38 @@
+.filters {
+    width: 250px;
+    text-align: left;
+   
+    
+  }
+
+.filter_gender {
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid lightgrey;
+    padding: 0 20px;
+    
+  }
+
+  .filter_brands{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid lightgrey;
+    border-right: none;
+    border-bottom: none;
+    padding: 0 20px;
+  }
+  .filter_prices {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid lightgrey;
+    border-right: none;
+    padding: 0 20px;
+    
+  }
+  
+  .by_gender,
+  .by_brand,
+  .by_price {
+    padding: 5px;
+    text-align: left;
+  }

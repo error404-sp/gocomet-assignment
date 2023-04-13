@@ -1,0 +1,17 @@
+
+
+  .select {
+    width: 200px;
+    height: 30px;
+    position: relative;
+   text-indent: 20px;
+    
+  }
+
+  .select_option{
+    font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif !important;
+    background-color: white;
+  }
+ 
