@@ -1,6 +1,6 @@
 import React from 'react';
 import "./WishList.css"
-import { Link, Navigate, useNavigate } from 'react-router-dom';
+
 import "./listing/Card.css";
 import useProduct from '../hooks/useProduct';
 

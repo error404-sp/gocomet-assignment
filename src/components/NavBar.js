@@ -1,9 +1,9 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 import WishList from './WishList';
 import Cart from './Cart';
 import "./NavBar.css";
-import { Link } from 'react-router-dom';
+
 import logo from "./../mynta-logo.jpg";
 import Popup from 'reactjs-popup';
 import useProduct from '../hooks/useProduct';

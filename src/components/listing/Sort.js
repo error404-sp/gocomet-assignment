@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Sort.css"
-import { filterReducer } from '../../context/PureReducers';
+
 import useProduct from '../../hooks/useProduct';
 
 const Sort = () => {

@@ -1,7 +1,7 @@
 import React from 'react'
 import Sort from './Sort';
 import "./ListBar.css";
-import useProduct from '../../hooks/useProduct';
+
 
 const ListBar = () => {
 

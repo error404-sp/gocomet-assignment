@@ -1,7 +1,7 @@
-import React, { useEffect, useState } from 'react'
+import React, {  useState } from 'react'
 import "./Card.css";
 import "./../../App.css";
-import { Link, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import useProduct from '../../hooks/useProduct';
 import Popup from 'reactjs-popup';
 import "./../WishList.css";
@@ -9,7 +9,7 @@ import "./ProductsRender.css";
 
 const Card = ({product}) => {
   
-  const {productState:{products, wishList },productDispatch,filterDispatch}= useProduct();
+  const {productState:{products, wishList },productDispatch}= useProduct();
  
   const {rating,images,discountDisplayLabel ,productId, brand, sizes, mrp , price , productName} = product;
   let wishlistCheck = (wishList.filter((product)=>(
@@ -63,7 +63,7 @@ const Card = ({product}) => {
           &times;
         </button>
         <div className="wishlist_products">
-        {products.filter((prod) => prod.brand == brand).map((prod)=>(<div className="wishlist_card" id="product_card">
+        {products.filter((prod) => prod.brand === brand).map((prod)=>(<div className="wishlist_card" id="product_card">
           <img className="product_card_image" src={prod.images[0].src} alt={prod.productName}/> 
             <h3 id="product_card_brand" className="font_large fontw_bold">{prod.brand}</h3>
             <p id="product_card_name" className='font_medium'>{prod.productName}</p>
